@@ -1,4 +1,24 @@
+
 .App {
+  /* display: flex;
+  flex-direction: row; */
+
+}
+.Content{
+  display: flex;
+  flex-direction: row;
+}
+.GroceryContainer{
+  width: 70%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  /* background-color: black; */
+}
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -34,5 +54,6 @@
   }
   to {
     transform: rotate(360deg);
-  }
-}
+  } */
+  
+/* } */
