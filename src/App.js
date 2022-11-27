@@ -23,7 +23,6 @@ function App() {
   
   return (
     <div className="App">
-      <p>hello world</p>
       <h1>Veee Groceries</h1> 
       <div className='Content'>
         <div className='GroceryContainer'>
