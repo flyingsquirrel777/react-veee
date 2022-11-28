@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Sort by",
+    "category": [
+      {"type":"price","checked":false,"desc":"Price"}
+    ]
+  },
+  {
+    "name": "Type",
+    "category": [
+      {"type":"meat","checked":false,"desc":"Meat"},
+      {"type":"vegetables","checked":false,"desc":"Vegetables"},
+      {"type":"fruits","checked":false,"desc":"Fruits"}
+    ]
+  },
+  {
+    "name": "Promo",
+    "category": [
+      {"type":"newArrival","checked":false,"desc":"NewArrival"},
+      {"type":"onSale","checked":false,"desc":"OnSale"}
+    ]
+  }
+]  

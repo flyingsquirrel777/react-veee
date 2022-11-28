@@ -1,14 +1,40 @@
 
 .GrocercyItem{
-
+    margin-left: 50px;
+    background-color: white;
+    border-radius: 10px;
     border: red;
     width: 20%;
     margin:20px;
+    align-items:center;
     /* margin: auto; */
+}
+.itemName{
+    font-weight: bold;
+    margin-left:10%;
+
 }
 
 .GrocercyItem img{
+    
     border-radius: 25px;
     width: 200px;
     height: 200px;
 }
+
+.addtocart{
+    /* background-color: white; */
+    color:black;
+    
+}
+.num_box{
+    width: 30px;
+    
+}
+.promo{
+    color: #8b0404;
+    font-size: 15px;
+    font-weight: bolder;
+
+}
+

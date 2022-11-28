@@ -1,4 +1,12 @@
 
+h1{
+  color: #8a0404;
+  font-weight: bolder;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+  color:#8b0404;
+}
 .App {
   /* display: flex;
   flex-direction: row; */
@@ -16,8 +24,47 @@
   flex-direction: row;
   /* background-color: black; */
 }
+.Cart{
+  
+  height:800px;
+  overflow: auto;
+}
+.cartList{
+ 
+}
+.cartList .info{
+	width:300px;
+	display:flex;
+	align-items:center;
+	justify-content:left;
+}
+.cartList .info div:nth-child(1){
+  width:60px;
+  height:60px;
+}
+.cartList .info div:nth-child(1) img{
+  width:100%;
+  height:100%;
+}
+.cartList .info div:nth-child(2){
+  margin-left: 5px;
+}
+.cartList .info div:nth-child(2) p{
+  line-height:22px;
+  padding:0;
+  margin:0;
+}
+.siderBar{
+  padding: 20px;
+  border: 2px solid #8b0404;
+  margin-top:200px;
+  height: 400px;
 
-
+}
+.Catagories{
+  font-size: 16px;
+  font-weight: bold;
+}
 
 /* .App {
   text-align: center;
