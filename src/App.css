@@ -2,7 +2,9 @@
 h1{
   color: #8a0404;
   font-weight: bolder;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 60px;
+  /* font-style: italic; */
+  font-family:'Courier New', Courier, monospace;
 }
 h2{
   color:#8b0404;
@@ -16,9 +18,11 @@ h2{
 .Content{
   display: flex;
   flex-direction: row;
+  justify-content: space-around;
+
 }
 .GroceryContainer{
-  width: 70%;
+  width: 60%;
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
