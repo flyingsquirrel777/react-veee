@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-veee/static/css/main.fc5a91dd.css",
-    "main.js": "/react-veee/static/js/main.86cbff80.js",
+    "main.css": "/react-veee/static/css/main.1e92bf5b.css",
+    "main.js": "/react-veee/static/js/main.dfa6f765.js",
     "static/media/logo.svg": "/react-veee/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-veee/index.html",
-    "main.fc5a91dd.css.map": "/react-veee/static/css/main.fc5a91dd.css.map",
-    "main.86cbff80.js.map": "/react-veee/static/js/main.86cbff80.js.map"
+    "main.1e92bf5b.css.map": "/react-veee/static/css/main.1e92bf5b.css.map",
+    "main.dfa6f765.js.map": "/react-veee/static/js/main.dfa6f765.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc5a91dd.css",
-    "static/js/main.86cbff80.js"
+    "static/css/main.1e92bf5b.css",
+    "static/js/main.dfa6f765.js"
   ]
 }
